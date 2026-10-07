@@ -45,8 +45,8 @@ Ping desde PC0 hacia la impresora: **4 paquetes enviados, 4 recibidos, 0% de pé
 
 ## 🧠 Conclusiones
 
-- El switch permite la comunicacion entre equipos dentro de la misma red local.
-- Con la ipconfig verifique la configuracion de cada pc, ping para ver la comunicación de manera correcta.
+- El switch permite la comunicación entre equipos dentro de la misma red local.
+- Con ipconfig verifique la configuración de cada pc, ping para ver la comunicación de manera correcta.
 
 ## 📂 Archivos
 
