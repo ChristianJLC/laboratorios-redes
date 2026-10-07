@@ -1,0 +1,1 @@
+Primer laboratorio práctico de redes. Diseñé una red local (LAN) en Cisco Packet Tracer con un switch Cisco 2960 que conecta dos computadoras y una impresora mediante cableado de cobre directo. Configuré direccionamiento IP estático en la red 192.168.1.0/24 y verifiqué la comunicación entre los equipos con los comandos ipconfig y ping, obteniendo 0% de pérdida de paquetes.
